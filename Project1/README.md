@@ -88,23 +88,6 @@ AI 비전 기반의 감시 간이 시스템을 구축한 것입니다.
 
 ---
 
-## 📂 폴더 구조 예시 (추천)
-
-```bash
-📦ai_vision_surveillance
-├── src/
-│   ├── security_alert/
-│   ├── system_monitor/
-│   ├── amr_controller/
-│   └── utils/
-├── launch/
-├── config/
-├── README.md
-└── requirements.txt
-```
-
----
-
 ## 🏁 실행 환경
 
 ```bash
