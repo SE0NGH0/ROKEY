@@ -4,7 +4,7 @@ cap_img_1 ~ 3을 하나의 cap_img 폴더로 합쳐야 함
 
 # Project5
 
-# 🧠 PCD 기판 자동 불량 검출 시스템 (PICO Auto Detection)  
+# 🧠 PCB 기판 자동 불량 검출 시스템 (PICO Auto Detection)  
 
 ---
 
@@ -37,7 +37,7 @@ cap_img_1 ~ 3을 하나의 cap_img 폴더로 합쳐야 함
 - 적외선 센서
 - 카메라
 - Raspberry Pi
-- PCD 정렬 라인
+- PCB 정렬 라인
 
 ---
 
@@ -82,7 +82,7 @@ cap_img_1 ~ 3을 하나의 cap_img 폴더로 합쳐야 함
 
 | 문제 | 대응 전략 |
 |------|-----------|
-| PCD 반대 방향일 경우 탐지 실패 | PCD 정렬 라인 및 방향 통일 설계 |
+| PCB 반대 방향일 경우 탐지 실패 | PCD 정렬 라인 및 방향 통일 설계 |
 | 낮은 탐지 정확도 | 데이터 수 확대 및 고해상도 개선 |
 | Raspberry Pico 클래스 인식 오류 | 해당 클래스 제외 후 조건 처리 |
 
